@@ -42,9 +42,6 @@ Our team designed and built a **semi-autonomous robot** prototype intended for u
 
 ---
 
-
----
-
 ## 📊 Final Demo Performance
 
 - ✅ 100% Accuracy in Drop-offs  
