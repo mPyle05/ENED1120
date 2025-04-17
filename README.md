@@ -42,3 +42,41 @@ Our team designed and built a **semi-autonomous robot** prototype intended for u
 
 ---
 
+
+---
+
+## 📊 Final Demo Performance
+
+- ✅ 100% Accuracy in Drop-offs  
+- ✅ 100% Accuracy in Weight Detection (25g, 75g, 125g)  
+- ✅ Fully operational pickup-dropoff loop  
+- ❌ Missed Continuous Loop in Final Demo due to time constraint
+
+---
+
+## 🙌 Team Contributions
+
+- **Mason Pyle** – Lead Programmer (PID, Arm Logic, Detection Systems)  
+- **Alexandria Vardon** – Project Lead, CAD/Build, Documentation  
+- **Molly Farrell** – Build, Testing, Presentation  
+- **Chester** – Mechanical Design, Fabrication, Demo Operations  
+
+---
+
+## 📽️ Demo Video
+
+📹 **Watch the full demo on YouTube**  
+[![Final Demo](https://img.youtube.com/vi/uCwxQbQjLqI/0.jpg)](https://youtu.be/uCwxQbQjLqI)
+
+---
+
+## 📌 Notes
+
+This repository is a proof-of-concept for educational purposes. The project demonstrates engineering design thinking, teamwork, and embedded system programming in response to real-world global challenges.
+
+---
+
+## 📜 License
+
+This project is released for academic and portfolio use. All rights for LabVIEW files belong to the original creators and the University of Cincinnati curriculum authors.
+
