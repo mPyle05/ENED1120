@@ -59,7 +59,7 @@ Our team designed and built a **semi-autonomous robot** prototype intended for u
 ---
 
 ## 📽️ Demo Video/Picture
-![**Watch the full demo on YouTube**](https://youtu.be/uCwxQbQjLqI)
+[**Watch the full demo on YouTube**](https://youtu.be/uCwxQbQjLqI)
 ![Picture of robot](robot.jpg)
 
 ---
