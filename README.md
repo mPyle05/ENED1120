@@ -56,7 +56,7 @@ Our team designed and built a **semi-autonomous robot** prototype intended for u
 - **Mason Pyle** – Lead Programmer (PID, Arm Logic, Detection Systems)  
 - **Alexandria Vardon** – Project Lead, CAD/Build, Documentation  
 - **Molly Farrell** – Build, Testing, Presentation  
-- **Chester** – Mechanical Design, Fabrication, Demo Operations  
+- **Chester Parker** – Mechanical Design, Fabrication, Demo Operations  
 
 ---
 
