@@ -8,8 +8,6 @@ This project addresses the National Academy of Engineering (NAE) Grand Challenge
 
 Our team designed and built a **semi-autonomous robot** prototype intended for use in a **mobile Thermal Depolymerization (TDP) plant**, which processes disaster debris into usable fuel. The robot autonomously classifies, lifts, and transports bins of material to their correct processing zones—contributing to disaster recovery while promoting environmental sustainability.
 
-> 🔗 **Watch the Final Demo**: [YouTube – Final Demo Video](https://youtu.be/uCwxQbQjLqI)
-
 ---
 
 ## 🤖 Robot Capabilities
